@@ -1,4 +1,4 @@
-We're please to anounce the first CRAN release of pacman v. 0.2.0.  pacman is the combined work of [Dason Kurkiewicz](https://github.com/Dasonk) & [Tyler Rinker](https://trinkerrstuff.wordpress.com/about/).  
+We're please to anounce the first CRAN release of [pacman v. 0.2.0](http://cran.r-project.org/web/packages/pacman/index.html).  pacman is the combined work of [Dason Kurkiewicz](https://github.com/Dasonk) & [Tyler Rinker](https://trinkerrstuff.wordpress.com/about/).  
 
 <img src="https://github.com/trinker/pacman/raw/master/inst/pacman_logo/r_pacman.png" width="30%">
 
