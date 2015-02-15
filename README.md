@@ -14,12 +14,8 @@ install.packages("pacman")
 
 ## May need the following if binaries haven't been built yet:
 install.packages("pacman", type="source")
-```
 
-Or install from GitHub via devtools:
-
-
-```r
+## Or install from GitHub via devtools:
 devtools::install_github("trinker/pacman")
 ```
 
